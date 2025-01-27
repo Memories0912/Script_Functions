@@ -1,7 +1,7 @@
 PosMob = {}
 if game.PlaceId == 4520749081 then
     PosMob = {
-        [1] = CFrame.new(-1915, 49, -4569),
+        [0] = CFrame.new(-1915, 49, -4569),
         [10] = CFrame.new(-1777, 49, -4461),
         [20] = CFrame.new(-2111, 49, -4800),
         [30] = CFrame.new(-2355, 49, -4560),
