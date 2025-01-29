@@ -1,7 +1,7 @@
 Quest = {}
 if game.PlaceId == 4520749081 then
     Quests = {
-        ["Kill 4 Soldiers"] = 0,
+        ["Kill 4 Soldiers"] = 1,
         ["Kill 5 Clown Pirates"] = 10,
         ["Kill 1 Smoky"] = 20,
         ["Kill 1 Tashi"] = 30,
