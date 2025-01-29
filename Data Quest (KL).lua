@@ -99,7 +99,7 @@ elseif game.PlaceId == 6381829480 then
         ["Kill 1 Floffy"] = 3775,
         ["Kill 4 Dead Troupe"] = 3800,
         ["Kill 4 Dead Troupe Captain"] = 3850,
-        ["Kill 1 Ryu"] = 3950
+        ["Kill 1 Ryu"] = 3975
     }    
 elseif game.PlaceId == 15759515082 then
     Quests = {
