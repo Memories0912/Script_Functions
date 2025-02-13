@@ -4,7 +4,18 @@ local Module = {
     attackPlayers = true,
     Equipped = nil,
     Debounce = 0,
-}
+    
+    ComboDebounce = 0,
+    M1Combo = 0,
+    ShootsPerTarget = {
+      ["Dual Flintlock"] = 2
+    },
+    SpecialShoots = {
+      ["Skull Guitar"] = "TAP",
+      ["Bazooka"] = "Position",
+      ["Cannon"] = "Position"
+    }
+  }
   
   local ReplicatedStorage = game:GetService("ReplicatedStorage")
   local RunService = game:GetService("RunService")
